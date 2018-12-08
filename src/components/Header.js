@@ -10,7 +10,7 @@ const Header = props => (
       </span>
       Day
     </h1>
-    <h3 ClassName="tageline">
+    <h3 className="tageline">
       <span>{props.tagline}</span>
     </h3>
   </header>
